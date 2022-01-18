@@ -25,7 +25,7 @@ I’m a JS engineer currently working at [interactive investor](https://www.ii.c
 
 
 ## 💬 Interests
-- Probably playing to may games 🕹
+- Probably playing too many games 🕹
 - A bit of a food connoisseur 🍕 
 - Watching anime 🤓
 - Rowing 🚣‍♂️
