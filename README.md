@@ -19,10 +19,7 @@ I’m a JS engineer currently working at [interactive investor](https://www.ii.c
 ## 🌱 My projects for this years (2022)
 
 - [ ] Use NextJs to build a portfolio site
-- [ ] React Native app that interfaces with my concept2 rowing machine
 - [ ] Create a platform for organising images using AWS/lambda/rekognition
-- [ ] Have a go at creating Web3 blockchain / smart contract 
-
 
 ## 💬 Interests
 - Probably playing too many games 🕹
