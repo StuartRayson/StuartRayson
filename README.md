@@ -1,6 +1,8 @@
 ## Hi, I'm Stuart 👋
 
-I’m a JS engineer currently working at [interactive investor](https://www.ii.co.uk/) as a Lead Developer 👨‍💻 
+I’m a TS/JS engineer 👨‍💻 
+
+Currently working at [BT/EE](https://ee.co.uk/) as a React Engineer on the Loop design system.
 
 ## Current Stack 💻
 
@@ -26,4 +28,4 @@ I’m a JS engineer currently working at [interactive investor](https://www.ii.c
 - A bit of a junk food connoisseur 🍕 
 - Watching anime 🤓
 - Rowing 🚣‍♂️
-- Being a Dad to a tortoise 🐢
+- Being a Dad to my pets Kiki 🐕 and Tyrion 🐢
