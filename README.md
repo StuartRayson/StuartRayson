@@ -2,7 +2,7 @@
 
 I’m a TS/JS engineer 👨‍💻 
 
-Currently working at [BT/EE](https://ee.co.uk/) as a React Engineer on the Loop design system.
+Currently working at [BT/EE](https://ee.co.uk/) on their design system team.
 
 ## Current Stack 💻
 
