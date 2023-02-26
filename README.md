@@ -18,11 +18,6 @@ Currently working at [BT/EE](https://ee.co.uk/) on their design system team.
 </div>
 
 
-## 🌱 My projects for this years (2022)
-
-- [ ] Use NextJs to build a portfolio site
-- [ ] Create a platform for organising images using AWS/lambda/rekognition
-
 ## 💬 Interests
 - Probably playing too many games 🕹
 - A bit of a junk food connoisseur 🍕 
